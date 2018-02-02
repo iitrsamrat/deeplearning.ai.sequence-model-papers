@@ -23,4 +23,5 @@ Homemaker? Debiasing Word Embeddings](https://pdfs.semanticscholar.org/2744/59c5
 
 
 
-####### Thanks [Samrat Saha](https://www.linkedin.com/in/iitrsamrat)
+
+``` Cheers! [Samrat Saha](https://www.linkedin.com/in/iitrsamrat) ``` 
