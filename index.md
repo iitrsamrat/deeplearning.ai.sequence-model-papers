@@ -67,4 +67,5 @@ Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhut
 [Connectionist Temporal Classification: Labelling Unsegmented
 Sequence Data with Recurrent Neural Networks] ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf
 
-``` Thanks! [Samrat Saha](https://www.linkedin.com/in/iitrsamrat) ``` 
+``` Thanks```
+[Samrat Saha](http://www.linkedin.com/in/iitrsamrat) 
