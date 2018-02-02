@@ -2,8 +2,8 @@
 ```Links to all the papers for the course of Convolutional Neural Network Course 3 by Ruby Childs```
 [Convolutional Neural Network Course 3 of deeplearning.ai specilization](https://gist.github.com/rubychilds/d9137168d0843f4a8071727e67a5816c)
 
-
-```Listed all the papers mentioned in the Sequence Model Course as part of Coursera Deeplearning.ai specilization```
+## Coursera:Deeplearning.ai Sequence Model Papers
+```Below are all the papers mentioned in the Sequence Model Course as part of Coursera Deeplearning.ai specilization```
 
 ## Week 1
 
