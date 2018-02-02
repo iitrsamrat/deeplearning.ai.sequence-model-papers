@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Coursera:Deeplearning.ai Sequence Model Papers
 
-You can use the [editor on GitHub](https://github.com/iitrsamrat/deeplearning.ai.sequence-model-papers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skip-Grams
+[Efficient Estimation of Word Representations in Vector Space] (https://arxiv.org/abs/1301.3781)
 
 ### Markdown
 
