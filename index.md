@@ -1,10 +1,15 @@
 ## Coursera:Deeplearning.ai Sequence Model Papers
 
 
-### Skip-Grams
-[Efficient Estimation of Word Representations in Vector Space] (https://arxiv.org/abs/1301.3781)
 
 ### Markdown
+
+### Skip-Grams, Hierarchical Softmax
+[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+
+[Distributed Representations of Words and Phrases and their Compositionality
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean](https://arxiv.org/abs/1310.4546)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
