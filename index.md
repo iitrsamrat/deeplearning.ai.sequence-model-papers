@@ -1,5 +1,5 @@
 ## Coursera:Deeplearning.ai Convolutional Neural Network (Course 4) Papers
-```Links to all the papers for the course of Convolutional Neural Network Course 3 by Ruby Childs```
+```Links to all the papers for the course of Convolutional Neural Network by Ruby Childs```
 [Convolutional Neural Network Course 3 of deeplearning.ai specilization](https://gist.github.com/rubychilds/d9137168d0843f4a8071727e67a5816c)
 
 ## Coursera:Deeplearning.ai Sequence Model Papers
